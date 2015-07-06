@@ -6,7 +6,7 @@ int main(void)
 {
  int number, sum, d1, d2, d3, d4;
  
- printf("Enter a 4 digit number");
+ printf("Enter a 4 digit number: ");
  
  scanf("%d", &number);
  

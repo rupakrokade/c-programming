@@ -23,6 +23,6 @@ int main(void)
 
  sum = d1+d2+d3+d4;
 
- printf("The sum of number enterd is = %d\n",sum);
+ printf("The \"sum\" of number enterd is = %d\n",sum);
 
 }
